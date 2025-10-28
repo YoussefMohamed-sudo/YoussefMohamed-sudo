@@ -20,7 +20,7 @@
 **Frameworks:** ASP.NET Core, Blazor  
 **Databases:** SQL Server, MySQL  
 **DevOps Tools:** Docker, Nginx, CI/CD basics  
-**Other Tools:** Git, Visual Studio, VS Code  
+**Other Tools:** Git, Visual Studio, VS Code , project management tools
 
 ---
 
