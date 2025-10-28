@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Youssef Mohamed
 
-🎓 ICT Student @ New Cairo Technological University  
+   ICT Student @ New Cairo Technological University  
 💻 Web Developer | Specialized in .NET, Blazor & Docker  
-🚀 Passionate about building scalable web apps and exploring DevOps & AI  
+   Passionate about building scalable web apps and exploring DevOps & AI  
 
 ---
 
 ## 🧩 About Me
-- 🌐 I develop full-stack web apps using **.NET** and **Blazor**  
-- 🧱 Experienced with **SQL databases** and **Docker containerization**  
-- 🧠 Interested in **AI** and **DevOps automation**  
-- 🌍 I love managing full deployment cycles — from code to server domain linking  
+-  I develop full-stack web apps using **.NET** and **Blazor**  
+-  Experienced with **SQL databases** and **Docker containerization**  
+-  Interested in **AI** and **DevOps automation**  
+-  I love managing full deployment cycles — from code to server domain linking  
 - 🧰 Always improving my skills and learning new technologies  
 
 ---
