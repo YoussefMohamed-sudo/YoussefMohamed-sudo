@@ -26,7 +26,7 @@
 
 ## 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/youssef-el-sheikh-a76480242/)  
-- 📧 Email: your@email.com  
+- 📧 Email: jwgoo60@gmail.com  
 - 🌍 Portfolio: *(coming soon...)*  
 
 ---
