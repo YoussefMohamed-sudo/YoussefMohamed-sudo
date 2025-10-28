@@ -1,39 +1,34 @@
 # 👋 Hi, I'm Youssef Mohamed
 
-🎓 ICT Student at New Cairo Technological University  
-💻 Passionate about Web Development, AI, and Data Analysis  
-🌱 Currently learning React.js, Node.js, and Python for data analytics  
+🎓 ICT Student @ New Cairo Technological University  
+💻 Web Developer | Specialized in .NET, Blazor & Docker  
+🚀 Passionate about building scalable web apps and exploring DevOps & AI  
 
 ---
 
-## 🚀 About Me
-- 🌐 Interested in building responsive and SEO-friendly websites  
-- 🤖 Exploring Artificial Intelligence and Machine Learning basics  
-- 📊 Learning how to analyze and visualize data using Python  
-- 🧩 Always open to collaborations and new learning opportunities  
+## 🧩 About Me
+- 🌐 I develop full-stack web apps using **.NET** and **Blazor**  
+- 🧱 Experienced with **SQL databases** and **Docker containerization**  
+- 🧠 Interested in **AI** and **DevOps automation**  
+- 🌍 I love managing full deployment cycles — from code to server domain linking  
+- 🧰 Always improving my skills and learning new technologies  
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** HTML, CSS, JavaScript, Python  
-- **Frameworks:** React.js (learning), Node.js (basic)  
-- **Tools:** Git, GitHub, VS Code, Docker (beginner)  
-- **Other:** SEO, Data Analysis (Pandas, Matplotlib basics)
+## ⚙️ Tech Stack
+**Languages:** C#, SQL, HTML, CSS, JavaScript  
+**Frameworks:** ASP.NET Core, Blazor  
+**Databases:** SQL Server, MySQL  
+**DevOps Tools:** Docker, Nginx, CI/CD basics  
+**Other Tools:** Git, Visual Studio, VS Code  
 
 ---
 
-## 📂 Featured Projects
-- [🌐 Portfolio Website](https://github.com/YoussefMouhamed/Portfolio) — My personal portfolio built with HTML, CSS, and JS  
-- [📊 Data Analysis Project](https://github.com/YoussefMouhamed/Data-Analysis) — Exploring and visualizing datasets using Python  
-- [🧠 Simple AI App](https://github.com/YoussefMouhamed/AI-Experiment) — Basic AI chatbot demo with Python  
-
----
-
-## 📫 Contact Me
-- 💼 [LinkedIn](https://linkedin.com/in/Youssef-Mouhamed)  
+## 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-el-sheikh-a76480242/)  
 - 📧 Email: your@email.com  
-- 🌍 Portfolio: *(soon...)*  
+- 🌍 Portfolio: *(coming soon...)*  
 
 ---
 
-⭐️ *"Keep learning, keep building."*  
+⭐ *"Code. Build. Deploy. Learn."*
