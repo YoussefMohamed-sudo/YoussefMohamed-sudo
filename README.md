@@ -23,7 +23,12 @@
 **Other Tools:** Git, Visual Studio, VS Code , project management tools
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed-sudo&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed-sudo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
 ## 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/youssef-el-sheikh-a76480242/)  
 - 📧 Email: jwgoo60@gmail.com  
