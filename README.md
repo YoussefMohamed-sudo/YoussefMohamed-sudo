@@ -76,9 +76,25 @@ I enjoy turning ideas into **production-level systems**—from code to server.
 ======================================================= -->
 
 ## 📊 GitHub Insights  
-![](https://github-readme-stats.vercel.app/api?username=YoussefMohamed&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed&show_icons=true&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" 
+    height="160" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed&theme=shadow_green&hide_border=false" 
+    height="160" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed&layout=compact&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" 
+    height="160" />
+</p>
+
 
 
 <!-- =======================================================
