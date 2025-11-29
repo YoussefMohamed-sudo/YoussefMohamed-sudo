@@ -26,7 +26,7 @@
 ======================================================= -->
 
 ## 🧩 About Me  
-
+<div align="center">
 I am a passionate **.NET full-stack developer** specializing in **Blazor** and **modern web application engineering**.  
 I build systems with clean code, scalable structure, and deployment-ready architecture.
 
@@ -39,17 +39,17 @@ I build systems with clean code, scalable structure, and deployment-ready archit
 - Exploring **AI**, automation, and backend intelligence  
 
 I enjoy turning ideas into **production-level systems**—from code to server.
-
+</div>
 ---
 
 <!-- =======================================================
                          TECH STACK SECTION
 ======================================================= -->
-
+<div align="center">
 ## ⚙️ Tech Stack  
 
 ### **Languages & Backend**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
@@ -58,7 +58,7 @@ I enjoy turning ideas into **production-level systems**—from code to server.
 </p>
 
 ### **Frontend & UI**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50"/>
   <img src="https://skillicons.dev/icons?i=materialui" height="50"/>
   <img src="https://skillicons.dev/icons?i=wasm" height="50"/>
@@ -68,7 +68,7 @@ I enjoy turning ideas into **production-level systems**—from code to server.
 <p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vscode,visualstudio" height="50"/>
 </p>
-
+</div>
 ---
 
 <!-- =======================================================
