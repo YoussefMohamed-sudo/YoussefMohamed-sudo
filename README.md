@@ -62,6 +62,7 @@ I enjoy turning ideas into **production-level systems**—from code to server.
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50"/>
   <img src="https://skillicons.dev/icons?i=materialui" height="50"/>
   <img src="https://skillicons.dev/icons?i=wasm" height="50"/>
+  <img src="https://skillicons.dev/icons?i=database" height="50"/>
 </p>
 
 ### **DevOps, Cloud & Tools**
