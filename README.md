@@ -87,27 +87,6 @@ I enjoy turning ideas into **production-level systems**—from code to server.
 </p>
 
 
----
-
-<!-- =======================================================
-                         PROJECTS SHOWCASE
-======================================================= -->
-
-## 🚀 Featured Projects  
-
-### 🔹 **Blazor Web CMS**
-A content management system built with clean architecture, EF Core, and scalable modules.
-
-### 🔹 **Dockerized .NET API Template**
-A ready-to-use boilerplate for containerized backend services with production-ready Nginx setup.
-
-### 🔹 **SQL Performance Analyzer**
-A .NET tool to analyze queries, detect bottlenecks, and improve database performance.
-
-*(يمكن إضافة روابط حقيقية عندما تكون جاهزة)*
-
----
-
 <!-- =======================================================
                          CONTACT SECTION
 ======================================================= -->
