@@ -1,75 +1,127 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff">Youssef Mohamed</span></h1>
+<!-- =======================================================
+                      PERSONAL BRANDING HEADER
+======================================================= -->
+
+<h1 align="center">
+  <b style="font-size:38px;">Youssef Mohamed</b>
+</h1>
+
+<h3 align="center">Full-Stack .NET Developer | Blazor Specialist | DevOps Explorer</h3>
 
 <p align="center">
-  ICT Student @ NCTU • Full-Stack .NET Developer • DevOps & AI Explorer
+  Building <b>scalable applications</b>, designing clean architectures,<br/>
+  and automating deployment pipelines with <b>Docker + Nginx</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20Docker%20%7C%20DevOps-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- ICON SECTIONS -->
+<!-- =======================================================
+                         PROFESSIONAL BIO
+======================================================= -->
+
 ## 🧩 About Me  
-- 💻 I build **full-stack .NET & Blazor web applications**  
-- 🐳 Experienced with **Docker**, containerization & deployment  
-- 🗄️ Working with **SQL Server** & **MySQL**  
-- 🌐 I handle the full cycle: development → deployment → domain linking  
-- 🤖 Exploring **AI integration** & automation  
-- 🚀 Continuously learning & leveling up  
+
+I am a passionate **.NET full-stack developer** specializing in **Blazor** and **modern web application engineering**.  
+I build systems with clean code, scalable structure, and deployment-ready architecture.
+
+🎯 What I do best:
+- Architecting **full-stack .NET applications** with clean design patterns  
+- Containerizing apps using **Docker** for reproducible deployments  
+- Managing **SQL Server & MySQL databases** with optimized performance  
+- Setting up **Nginx reverse proxy + domain deployment**  
+- Implementing CI/CD workflows (GitHub Actions)  
+- Exploring **AI**, automation, and backend intelligence  
+
+I enjoy turning ideas into **production-level systems**—from code to server.
 
 ---
+
+<!-- =======================================================
+                         TECH STACK SECTION
+======================================================= -->
 
 ## ⚙️ Tech Stack  
 
-### **Languages & Frameworks**
+### **Languages & Backend**
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blazor-6C2FB8?style=for-the-badge&logo=blazor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mssql" height="50"/>
 </p>
 
-### **Tools & DevOps**
+### **Frontend & UI**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50"/>
+  <img src="https://skillicons.dev/icons?i=blazor" height="50"/>
+</p>
+
+### **DevOps, Cloud & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vscode,visualstudio" height="50"/>
 </p>
 
 ---
+
+<!-- =======================================================
+                         GITHUB INSIGHTS
+======================================================= -->
 
 ## 📊 GitHub Insights  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YoussefMohamed-sudo&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed-sudo&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed-sudo&theme=tokyonight&hide_border=false&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contact  
-<p>
+<!-- =======================================================
+                         PROJECTS SHOWCASE
+======================================================= -->
+
+## 🚀 Featured Projects  
+
+### 🔹 **Blazor Web CMS**
+A content management system built with clean architecture, EF Core, and scalable modules.
+
+### 🔹 **Dockerized .NET API Template**
+A ready-to-use boilerplate for containerized backend services with production-ready Nginx setup.
+
+### 🔹 **SQL Performance Analyzer**
+A .NET tool to analyze queries, detect bottlenecks, and improve database performance.
+
+*(يمكن إضافة روابط حقيقية عندما تكون جاهزة)*
+
+---
+
+<!-- =======================================================
+                         CONTACT SECTION
+======================================================= -->
+
+## 📫 Connect with Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/youssef-el-sheikh-a76480242/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   <a href="mailto:jwgoo60@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">⭐ <i>“Code with purpose — Deploy with confidence — Learn without limits.”</i> ⭐</p>
+<p align="center"><b>“Build with clarity. Deploy with confidence. Learn without limits.”</b></p>
