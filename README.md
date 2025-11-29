@@ -75,13 +75,17 @@ I enjoy turning ideas into **production-level systems**—from code to server.
 
 ## 📊 GitHub Insights  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YoussefMohamed-sudo&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed-sudo&theme=tokyonight&hide_border=false" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed-sudo&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
+
 
 ---
 
