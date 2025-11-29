@@ -52,7 +52,7 @@ I enjoy turning ideas into **production-level systems**—from code to server.
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="50"/>
   <img src="https://skillicons.dev/icons?i=mssql" height="50"/>
 </p>
 
