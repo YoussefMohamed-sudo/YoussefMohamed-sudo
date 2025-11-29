@@ -62,7 +62,6 @@ I enjoy turning ideas into **production-level systems**—from code to server.
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50"/>
   <img src="https://skillicons.dev/icons?i=materialui" height="50"/>
   <img src="https://skillicons.dev/icons?i=wasm" height="50"/>
-  <img src="https://skillicons.dev/icons?i=database" height="50"/>
 </p>
 
 ### **DevOps, Cloud & Tools**
@@ -77,17 +76,9 @@ I enjoy turning ideas into **production-level systems**—from code to server.
 ======================================================= -->
 
 ## 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed-sudo&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed-sudo&theme=tokyonight&hide_border=false&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=YoussefMohamed&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!-- =======================================================
