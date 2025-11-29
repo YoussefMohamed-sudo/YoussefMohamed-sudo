@@ -52,14 +52,16 @@ I enjoy turning ideas into **production-level systems**—from code to server.
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mssql" height="50"/>
   <img src="https://skillicons.dev/icons?i=mssql" height="50"/>
 </p>
 
 ### **Frontend & UI**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50"/>
-  <img src="https://skillicons.dev/icons?i=blazor" height="50"/>
+  <img src="https://skillicons.dev/icons?i=materialui" height="50"/>
+  <img src="https://skillicons.dev/icons?i=wasm" height="50"/>
 </p>
 
 ### **DevOps, Cloud & Tools**
