@@ -58,7 +58,6 @@ I turn concepts into **production-grade systems** ready for real-world use.
 ### 🔹 Languages & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mssql" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </p>
 
@@ -66,7 +65,6 @@ I turn concepts into **production-grade systems** ready for real-world use.
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50"/>
   <img src="https://skillicons.dev/icons?i=blazor" height="50"/>
-  <img src="https://skillicons.dev/icons?i=wasm" height="50"/>
 </p>
 
 ### 🔹 DevOps, Tools & Cloud
