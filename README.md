@@ -39,7 +39,7 @@ I turn concepts into **production-grade systems** ready for real-world use.
 ### 🔹 Frontend & UI
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50"/>
-  <img src="https://skillicons.dev/icons?i=blazor" height="50"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="50"/>
 </p>
 
 ### 🔹 DevOps, Tools & Cloud
