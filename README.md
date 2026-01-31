@@ -5,7 +5,7 @@ Crafting **high-quality scalable applications**, engineering clean architectures
 and building automated deployment pipelines using **Docker & Nginx**.
 
 ![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge)
-![Specialization](https://img.shields.io/badge/Specialization-.NET%20%7C%20Blazor%20%7C%20Docker-1f6feb?style=for-the-badge)
+![Specialization](https://img.shields.io/badge/Specialization-.NET%20%7C%20Angular%20%7C%20Docker-1f6feb?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=for-the-badge)
 
 ---
