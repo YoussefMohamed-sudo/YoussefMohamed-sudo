@@ -1,5 +1,5 @@
 # Youssef Mohamed  
-**Full-Stack .NET Developer • Blazor Developer • DevOps Explorer**
+**Full-Stack .NET Developer • Angular Developer • DevOps Explorer**
 
 Crafting **high-quality scalable applications**, engineering clean architectures,  
 and building automated deployment pipelines using **Docker & Nginx**.
@@ -13,11 +13,11 @@ and building automated deployment pipelines using **Docker & Nginx**.
 ## 🧩 About Me
 
 I am a dedicated **.NET full-stack developer** with strong technical experience in  
-**Blazor**, **API engineering**, and **modern deployment workflows**.
+**Angular**, **API engineering**, and **modern deployment workflows**.
 
 ### 💡 What I Focus On
 - Designing **clean, modular .NET architectures**  
-- Building scalable Blazor web applications  
+- Building scalable Angular web applications  
 - Containerizing apps with **Docker**  
 - Using **Nginx** for reverse proxy and SSL-ready deployments  
 - Managing **SQL Server / MySQL** with performance tuning  
