@@ -1,101 +1,118 @@
-# 👋 Youssef Mohamed  
-### 🚀 Full-Stack .NET Developer | Angular Specialist | DevOps Explorer  
+# 👋 Youssef Mohamed
 
-💡 Building **scalable, production-ready applications** with clean architecture,  
-modern UI, and automated deployment pipelines.
+**Full-Stack .NET Developer • Angular Developer • DevOps Explorer**
 
-![Status](https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=for-the-badge)
-![Tech](https://img.shields.io/badge/.NET-Angular-Docker-1f6feb?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Clean%20Architecture-blue?style=for-the-badge)
+Crafting **high-quality scalable applications**, engineering clean architectures,
+and building automated deployment pipelines using **Docker & Nginx**.
 
----
-
-## 🧠 About Me  
-
-I am a passionate **Full-Stack .NET Developer** focused on building high-quality systems  
-that are **scalable, maintainable, and production-ready**.
-
-🔹 I specialize in:
-- Designing **Clean Architecture systems**
-- Developing **robust REST APIs**
-- Building modern **Angular applications**
-- Creating **DevOps pipelines using Docker & Nginx**
-- Deploying apps on **Linux servers (VPS)**
-
-🚀 Currently exploring:
-- AI-powered applications 🤖  
-- Advanced system design & performance optimization  
-- Cloud-native architectures  
+![Profile Views](https://komarev.com/ghpvc/?username=YoussefMohamed-sudo\&label=Profile%20Views\&color=2ea44f\&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge)
+![Specialization](https://img.shields.io/badge/Specialization-.NET%20%7C%20Angular%20%7C%20Docker-1f6feb?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=for-the-badge)
 
 ---
 
-## 🛠 Tech Stack  
+## 🧩 About Me
 
-### 🔹 Backend & Languages  
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</p>
+I am a dedicated **.NET full-stack developer** with strong technical experience in
+**Angular**, **API engineering**, and **modern deployment workflows**.
 
-### 🔹 Frontend  
-<p>
-<img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap" height="50"/>
-</p>
+### 💡 What I Focus On
 
-### 🔹 DevOps & Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,visualstudio" height="50"/>
-</p>
+* Designing **clean, modular .NET architectures**
+* Building scalable Angular web applications
+* Containerizing apps with **Docker**
+* Using **Nginx** for reverse proxy and SSL-ready deployments
+* Managing **SQL Server / MySQL** with performance tuning
+* Automation, CI/CD, Linux servers
+* Exploring modern **AI integrations** into real applications
 
----
-
-## 🚀 Featured Projects  
-
-### 🌱 Agro Management System  
-> Smart agriculture platform for managing farms, analysis, and reports  
-
-🔹 Multi-user system with role-based access  
-🔹 Built with **ASP.NET Core + Angular**  
-🔹 Clean architecture + scalable database design  
-🔹 Dockerized & deployed on VPS using Nginx  
+I turn concepts into **production-grade systems** ready for real-world use.
 
 ---
 
-### 📊 Admin Dashboard System  
-> Advanced admin panel with analytics & management tools  
+## ⚙️ Tech Stack
 
-🔹 Dynamic filtering & status management  
-🔹 Export data (CSV / Reports)  
-🔹 Modern UI using Syncfusion  
+### 🔹 Languages & Backend
+
+<p>  
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" height="50"/>  
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>  
+</p>  
+
+### 🔹 Frontend & UI
+
+<p>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50"/>  
+  <img src="https://skillicons.dev/icons?i=angular" height="50"/>  
+</p>  
+
+### 🔹 DevOps, Tools & Cloud
+
+<p>  
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,visualstudio" height="50"/>  
+</p>  
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&show_icons=true&theme=shadow_green&hide_border=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed-sudo&theme=shadow_green&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&show_icons=true&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Youssef's%20GitHub%20Stats" height="160"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed-sudo&theme=shadow_green&hide_border=true&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f" height="160"/>
+
 </p>
-
----
-
-## 🤝 Let's Connect  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/youssef-el-sheikh-a76480242/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="mailto:jwgoo60@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-<a href="https://github.com/YoussefMohamed-sudo">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed-sudo&layout=compact&theme=shadow_green&hide_border=true&langs_count=8&custom_title=Top%20Technologies" height="160"/>
+
 </p>
 
 ---
 
-## 🧭 Philosophy  
+## 📈 Contribution Activity
 
-> **"Build systems, not just features."**  
-> **"Code for scalability. Design for humans."**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMohamed-sudo&theme=github_dark" />
+
+---
+
+## 🧠 Development Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMohamed-sudo&theme=github_dark" height="150"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefMohamed-sudo&theme=github_dark" height="150"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMohamed-sudo&theme=github_dark" height="150"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMohamed-sudo&theme=github_dark&utcOffset=2" height="150"/>
+
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/youssef-el-sheikh-a76480242/">  
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>  
+</a>  
+
+<a href="mailto:jwgoo60@gmail.com">  
+  <img src="https://skillicons.dev/icons?i=gmail" height="48"/>  
+</a>  
+
+<a href="https://github.com/YoussefMohamed-sudo">  
+  <img src="https://skillicons.dev/icons?i=github" height="48"/>  
+</a>  
+
+---
+
+**“Build with clarity. Deploy with confidence. Learn without limits.”**
