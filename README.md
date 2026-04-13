@@ -55,7 +55,7 @@ I turn concepts into **production-grade systems** ready for real-world use.
 
 ---
 
-## >> GitHub Insights
+## <> GitHub Insights
 
 <p align="center">
 
@@ -68,13 +68,13 @@ I turn concepts into **production-grade systems** ready for real-world use.
 
 ---
 
-## >> Contribution Activity
+## <> Contribution Activity
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMohamed-sudo&theme=github_dark" />
 
 ---
 
-## >> Development Metrics
+## <> Development Metrics
 
 <p align="center">
 
