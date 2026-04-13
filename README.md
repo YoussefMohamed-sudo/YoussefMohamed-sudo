@@ -55,23 +55,7 @@ I turn concepts into **production-grade systems** ready for real-world use.
 
 ---
 
-## 📊 GitHub Insights
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&show_icons=true&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Youssef's%20GitHub%20Stats" height="160"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed-sudo&theme=shadow_green&hide_border=true&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f" height="160"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed-sudo&layout=compact&theme=shadow_green&hide_border=true&langs_count=8&custom_title=Top%20Technologies" height="160"/>
-
-</p>
-
----
 
 ## 📈 Contribution Activity
 
