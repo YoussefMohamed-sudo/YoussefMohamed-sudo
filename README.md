@@ -1,84 +1,101 @@
-# Youssef Mohamed  
-**Full-Stack .NET Developer • Angular Developer • DevOps Explorer**
+# 👋 Youssef Mohamed  
+### 🚀 Full-Stack .NET Developer | Angular Specialist | DevOps Explorer  
 
-Crafting **high-quality scalable applications**, engineering clean architectures,  
-and building automated deployment pipelines using **Docker & Nginx**.
+💡 Building **scalable, production-ready applications** with clean architecture,  
+modern UI, and automated deployment pipelines.
 
-![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge)
-![Specialization](https://img.shields.io/badge/Specialization-.NET%20%7C%20Angular%20%7C%20Docker-1f6feb?style=for-the-badge)
-![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=for-the-badge)
-
----
-
-## 🧩 About Me
-
-I am a dedicated **.NET full-stack developer** with strong technical experience in  
-**Angular**, **API engineering**, and **modern deployment workflows**.
-
-### 💡 What I Focus On
-- Designing **clean, modular .NET architectures**  
-- Building scalable Angular web applications  
-- Containerizing apps with **Docker**  
-- Using **Nginx** for reverse proxy and SSL-ready deployments  
-- Managing **SQL Server / MySQL** with performance tuning  
-- Automation, CI/CD, Linux servers  
-- Exploring modern **AI integrations** into real applications  
-
-I turn concepts into **production-grade systems** ready for real-world use.
+![Status](https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=for-the-badge)
+![Tech](https://img.shields.io/badge/.NET-Angular-Docker-1f6feb?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Clean%20Architecture-blue?style=for-the-badge)
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 About Me  
 
-### 🔹 Languages & Backend
+I am a passionate **Full-Stack .NET Developer** focused on building high-quality systems  
+that are **scalable, maintainable, and production-ready**.
+
+🔹 I specialize in:
+- Designing **Clean Architecture systems**
+- Developing **robust REST APIs**
+- Building modern **Angular applications**
+- Creating **DevOps pipelines using Docker & Nginx**
+- Deploying apps on **Linux servers (VPS)**
+
+🚀 Currently exploring:
+- AI-powered applications 🤖  
+- Advanced system design & performance optimization  
+- Cloud-native architectures  
+
+---
+
+## 🛠 Tech Stack  
+
+### 🔹 Backend & Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </p>
 
-### 🔹 Frontend & UI
+### 🔹 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50"/>
-  <img src="https://skillicons.dev/icons?i=angular" height="50"/>
+<img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap" height="50"/>
 </p>
 
-### 🔹 DevOps, Tools & Cloud
+### 🔹 DevOps & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,visualstudio" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,visualstudio" height="50"/>
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 🚀 Featured Projects  
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&show_icons=true&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" 
-  height="170" />
+### 🌱 Agro Management System  
+> Smart agriculture platform for managing farms, analysis, and reports  
 
-<img 
-  src="https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed-sudo&theme=shadow_green&hide_border=true" 
-  height="170" />
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed-sudo&layout=compact&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" 
-  height="170" />
+🔹 Multi-user system with role-based access  
+🔹 Built with **ASP.NET Core + Angular**  
+🔹 Clean architecture + scalable database design  
+🔹 Dockerized & deployed on VPS using Nginx  
 
 ---
 
-## 📫 Connect with Me
+### 📊 Admin Dashboard System  
+> Advanced admin panel with analytics & management tools  
 
+🔹 Dynamic filtering & status management  
+🔹 Export data (CSV / Reports)  
+🔹 Modern UI using Syncfusion  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed-sudo&show_icons=true&theme=shadow_green&hide_border=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMohamed-sudo&theme=shadow_green&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🤝 Let's Connect  
+
+<p align="center">
 <a href="https://www.linkedin.com/in/youssef-el-sheikh-a76480242/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
 <a href="mailto:jwgoo60@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-
 <a href="https://github.com/YoussefMohamed-sudo">
-  <img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
+</p>
 
 ---
 
-**“Build with clarity. Deploy with confidence. Learn without limits.”**
+## 🧭 Philosophy  
+
+> **"Build systems, not just features."**  
+> **"Code for scalability. Design for humans."**
